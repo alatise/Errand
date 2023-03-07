@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# generated files
+
+yarn-error.log
+npm-debug.log*
+yarn-lock
+
+.next/analytics

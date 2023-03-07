@@ -1,0 +1,30 @@
+{
+  "questions":[
+    {
+      "name":"what is your best food"
+    },
+     {
+      "name":"what is your mum's maiden name"
+    },
+     {
+      "name":"what is the name of your best pet"
+    }
+  ],
+  
+  "user":[
+    {
+      "phone":"09018447094",
+      "password":"ggguuu"
+    }
+  ],
+  "users": [
+    {
+       "first_name": "sean",
+        "last_name": "Paul",
+        "client": "android",
+        "phone_number": "+2349018447094",
+        "password": "ggguuu"
+    }
+  ]
+
+}
